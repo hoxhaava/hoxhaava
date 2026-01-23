@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hava</h1>
-<h3 align="center">I write code, not tragedies—though sometimes it's hard to tell the difference.</h3>
+<h3 align="center">Interested in code, systems, and why things break.</h3>
 
-- I’m currently working with **Flutter and Dart**
-- Experimenting with **Next.js** on the side
+- Flutter & Dart · React / React Native · Go (mostly for games)
 
+- Actively building side projects to learn and improve
