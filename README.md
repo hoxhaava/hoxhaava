@@ -5,10 +5,12 @@
 ---
 
 ### ✧ currently
-- Building backend systems, working with event streams, APIs and cloud infrastructure
-- Training and shipping computer vision models
-- Experimenting with LLMs beyond the chatbot
-- Making things work, then figuring out why they work
+- Event-driven backend systems with Kafka Streams
+- Detecting faults in live audio and video streams with ffmpeg and signal processing
+- AWS infrastructure with Terraform and zero-downtime schema migrations
+- End-to-end RT-DETR object detection pipelines, from data collection and annotation to training and serving
+- Replacing expensive vision-LLM calls with smaller, task-specific models trained on their outputs
+- LLM-based entity matching across heterogeneous data sources, combined with deterministic validation
 
 ### ✧ outside of work
 - Making little games in Go — [santa-claws](https://github.com/hoxhaava/santa-claws)
