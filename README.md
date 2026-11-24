@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hava</h1>
 <h3 align="center">Interested in code, systems, and why things break.</h3>
-<p align="center"><i>backend, machine learning &amp; everything in between</i></p>
+<p align="center"><i>full-stack, backend-focused · machine learning &amp; everything in between</i></p>
 
 ---
 
@@ -29,6 +29,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2d2540?style=flat)
 ![Go](https://img.shields.io/badge/Go-2d2540?style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2d2540?style=flat)
+![React](https://img.shields.io/badge/React-2d2540?style=flat)
+![React Native](https://img.shields.io/badge/React_Native-2d2540?style=flat)
 
 ---
 
