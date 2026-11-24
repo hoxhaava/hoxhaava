@@ -5,12 +5,9 @@
 ---
 
 ### ✧ currently
-- Event-driven backend systems with Kafka Streams
-- Detecting faults in live audio and video streams with ffmpeg and signal processing
-- AWS infrastructure with Terraform and zero-downtime schema migrations
-- End-to-end RT-DETR object detection pipelines, from data collection and annotation to training and serving
-- Replacing expensive vision-LLM calls with smaller, task-specific models trained on their outputs
-- LLM-based entity matching across heterogeneous data sources, combined with deterministic validation
+- Building event-driven backend systems for real-time video and audio pipelines
+- Optimizing AI costs by replacing expensive LLM calls with heuristic approaches and task-specific models like RT-DETR
+- Working with distributed systems, stream processing and cloud infrastructure
 
 ### ✧ outside of work
 - Making little games in Go — [santa-claws](https://github.com/hoxhaava/santa-claws)
